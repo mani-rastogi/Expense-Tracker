@@ -1,4 +1,4 @@
-# Expense-Tracker
+# Personal Expense-Tracker
 It is a simple and basic progaram to categorize users expenses and provide the user with multiple options
 
 The program provides user with 7 Options.
@@ -9,3 +9,7 @@ The program provides user with 7 Options.
 5. Viewing the Expenses by Category
 6. Viewing All the Expenses
 7. Exit the Programme
+
+
+**Instsructions to Run**
+1. Just copy the code and Viola!!! You are ready to Track Your Expenses
